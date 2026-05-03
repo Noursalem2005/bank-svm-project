@@ -21,5 +21,3 @@ build/
 *.swo
 
 # Model files (optional - comment out if you want to commit these)
-*.pkl
-*.joblib
